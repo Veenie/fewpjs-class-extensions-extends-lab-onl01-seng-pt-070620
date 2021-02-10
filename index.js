@@ -1,3 +1,5 @@
 // Your code here
 
-class Polygon
+class Polygon {
+  
+}
