@@ -8,5 +8,8 @@ class Polygon {
   get countSides() {
     return this.count
   }
+  get perimeter(){
+    
+  }
 }
 
