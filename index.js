@@ -1,5 +1,5 @@
 // Your code here
 
 class Polygon {
-  constructor
+  constructor(array)
 }
