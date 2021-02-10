@@ -4,6 +4,8 @@ class Polygon {
   constructor(array){
     this.side = [array]
   }
-  get 
+  get countSides{
+    
+  }
 }
 
